@@ -9,3 +9,4 @@ C:\Users\Kousay\source\repos\AirportManagement\AM.Core.Domain\obj\Debug\net8.0\A
 C:\Users\Kousay\source\repos\AirportManagement\AM.Core.Domain\obj\Debug\net8.0\refint\AM.Core.Domain.dll
 C:\Users\Kousay\source\repos\AirportManagement\AM.Core.Domain\obj\Debug\net8.0\AM.Core.Domain.pdb
 C:\Users\Kousay\source\repos\AirportManagement\AM.Core.Domain\obj\Debug\net8.0\ref\AM.Core.Domain.dll
+C:\Users\Kousay\source\repos\AirportManagement\AM.Core.Domain\obj\Debug\net8.0\AM.Core.Domain.sourcelink.json

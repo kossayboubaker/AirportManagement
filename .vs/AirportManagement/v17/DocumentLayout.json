@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 19,
+          "SelectedChildIndex": 18,
           "Children": [
             {
               "$type": "Document",
@@ -51,12 +51,7 @@
               "ViewState": "AgIAAA0AAAAAAAAAAAAYwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T13:27:33.541Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -116,8 +111,7 @@
               "RelativeToolTip": "AM.UI.Console\\Traveller.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAcwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T15:06:01.634Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T15:06:01.634Z"
             },
             {
               "$type": "Document",
@@ -129,8 +123,7 @@
               "RelativeToolTip": "AM.UI.Console\\Staff.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvxgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T13:52:36.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T13:52:36.676Z"
             },
             {
               "$type": "Document",
@@ -142,8 +135,7 @@
               "RelativeToolTip": "AM.UI.Console\\PlaneType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T13:48:33.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T13:48:33.043Z"
             },
             {
               "$type": "Document",
@@ -155,8 +147,7 @@
               "RelativeToolTip": "AM.UI.Console\\Passenger.cs",
               "ViewState": "AgIAADIAAAAAAAAAAAA8wCYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T13:40:10.524Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T13:40:10.524Z"
             },
             {
               "$type": "Document",
@@ -168,8 +159,7 @@
               "RelativeToolTip": "AM.UI.Console\\Flight.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAwwBYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T13:34:22.632Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-17T13:34:22.632Z"
             },
             {
               "$type": "Document",
@@ -179,7 +169,7 @@
               "RelativeDocumentMoniker": "AM.UI.Console\\Program.cs",
               "ToolTip": "C:\\Users\\Kousay\\source\\repos\\AirportManagement\\AM.UI.Console\\Program.cs",
               "RelativeToolTip": "AM.UI.Console\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAABkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-17T13:21:34.643Z",
               "EditorCaption": ""
